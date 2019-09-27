@@ -4,7 +4,9 @@
 2.dissimilarity, 
 3.homogeneity,
 3.energy, 
-4.asymmetry.
+4.asymmetry
+
+
 #Algorithems used
 1.K- nearest neighbours
 2.SVM algorithem
