@@ -1,4 +1,4 @@
-# Surface_detecion
+# Surface_detection
 #Features used in ML classification are
 
 1. contrast
