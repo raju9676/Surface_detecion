@@ -8,6 +8,8 @@
 
 
 #Algorithems used
+
+
 1.K- nearest neighbours
 2.SVM algorithem
 3.Decision Tree
